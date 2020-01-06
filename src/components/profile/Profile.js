@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 import './Profile.css'
 import profileImage from './profileImage.png'
 
-const profileText = <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida. Vel risus commodo viverra maecenas accumsan lacus vel. Enim neque volutpat ac tincidunt. A arcu cursus vitae congue. Elementum nibh tellus molestie nunc non blandit massa enim nec. Posuere urna nec tincidunt praesent. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Urna condimentum mattis pellentesque id nibh tortor id aliquet. Sit amet tellus cras adipiscing enim eu. Nulla porttitor massa id neque. Nam libero justo laoreet sit. Ut ornare lectus sit amet est. Suscipit tellus mauris a diam maecenas sed. Phasellus vestibulum lorem sed risus ultricies.</p>
+const profileText = <p>Software enthusiast by trade, gamer by passion, father to a 4 yo.Advocate for developing software the right way.Can hold a conversation on Test Driven Development, DevSecOps, Test Automation and the few buzzwords which our industry seems to follow.Focussed on client enablement with agile delivery.Currently supporting few financial services organization on their journey to continuous "everything".</p>
 
 class Profile extends Component{
 
@@ -10,7 +10,7 @@ class Profile extends Component{
         return(
             <div className='container'>
                 <h1>Manu Chandrasekhar</h1>
-                <img src={profileImage} alt='Profile' />
+                <img src={profileImage} alt='Profile' id="profileImage"/>
                 <p className='profileContainer'>{profileText}</p>
             </div>
         )

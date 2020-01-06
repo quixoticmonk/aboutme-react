@@ -1,0 +1,8 @@
+.rightContent{
+    display: block;
+    font-size: small;
+    float: right;
+    margin-top: 0;
+    width: 50% ;
+    color: grey;
+}

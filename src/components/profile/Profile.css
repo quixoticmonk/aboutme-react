@@ -1,0 +1,22 @@
+.container {
+    display: block;
+    text-align: left;
+    width: 50%;
+    color: grey;
+    font-size: larger;
+    float: left;
+}
+.profileContainer {
+    text-align: left;
+    max-width: 250px;
+    color: black;
+    font-size: smaller;
+    font-family: monospace;
+}
+
+img{
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 150px;
+}

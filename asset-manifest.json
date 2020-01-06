@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/aboutme/static/css/main.85833e0d.chunk.css",
-    "main.js": "/aboutme/static/js/main.3a1026ea.chunk.js",
-    "main.js.map": "/aboutme/static/js/main.3a1026ea.chunk.js.map",
-    "runtime-main.js": "/aboutme/static/js/runtime-main.6fca02aa.js",
-    "runtime-main.js.map": "/aboutme/static/js/runtime-main.6fca02aa.js.map",
-    "static/js/2.41ef0e98.chunk.js": "/aboutme/static/js/2.41ef0e98.chunk.js",
-    "static/js/2.41ef0e98.chunk.js.map": "/aboutme/static/js/2.41ef0e98.chunk.js.map",
-    "index.html": "/aboutme/index.html",
-    "precache-manifest.626aa9987939040c113d1871ce6d1ff4.js": "/aboutme/precache-manifest.626aa9987939040c113d1871ce6d1ff4.js",
-    "service-worker.js": "/aboutme/service-worker.js",
-    "static/css/main.85833e0d.chunk.css.map": "/aboutme/static/css/main.85833e0d.chunk.css.map",
-    "static/js/2.41ef0e98.chunk.js.LICENSE": "/aboutme/static/js/2.41ef0e98.chunk.js.LICENSE",
-    "static/media/profileImage.png": "/aboutme/static/media/profileImage.b982b031.png"
+    "main.css": "/aboutme-react/static/css/main.85833e0d.chunk.css",
+    "main.js": "/aboutme-react/static/js/main.3a1026ea.chunk.js",
+    "main.js.map": "/aboutme-react/static/js/main.3a1026ea.chunk.js.map",
+    "runtime-main.js": "/aboutme-react/static/js/runtime-main.465dbd6a.js",
+    "runtime-main.js.map": "/aboutme-react/static/js/runtime-main.465dbd6a.js.map",
+    "static/js/2.41ef0e98.chunk.js": "/aboutme-react/static/js/2.41ef0e98.chunk.js",
+    "static/js/2.41ef0e98.chunk.js.map": "/aboutme-react/static/js/2.41ef0e98.chunk.js.map",
+    "index.html": "/aboutme-react/index.html",
+    "precache-manifest.48bcf91c4660643f06609afa23536697.js": "/aboutme-react/precache-manifest.48bcf91c4660643f06609afa23536697.js",
+    "service-worker.js": "/aboutme-react/service-worker.js",
+    "static/css/main.85833e0d.chunk.css.map": "/aboutme-react/static/css/main.85833e0d.chunk.css.map",
+    "static/js/2.41ef0e98.chunk.js.LICENSE": "/aboutme-react/static/js/2.41ef0e98.chunk.js.LICENSE",
+    "static/media/profileImage.png": "/aboutme-react/static/media/profileImage.b982b031.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fca02aa.js",
+    "static/js/runtime-main.465dbd6a.js",
     "static/js/2.41ef0e98.chunk.js",
     "static/css/main.85833e0d.chunk.css",
     "static/js/main.3a1026ea.chunk.js"
